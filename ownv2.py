@@ -7,7 +7,7 @@ import tempfile
 import io
 
 # Set up OpenAI API key
-openai.api_key = "sk-proj-NDG2rm0MeJuShhD8m7FuT3BlbkFJNyhtmzb4W1PTO4fFt5R2"
+openai.api_key = "OPEN-AI-KEY"
 
 # Load the PDF file
 with open("Nachi_resume_ML.pdf", "rb") as pdf_file:
